@@ -1,6 +1,6 @@
 function [] = Figure3b_JoEM(scratch)
 
-% Usage:  [] = Figure3a_JoEM(scratch);
+% Usage:  [] = Figure3b_JoEM(scratch);
 
 % Required input:
 % scratch: The working directory where the raw data files, and dependancies

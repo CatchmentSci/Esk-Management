@@ -1,6 +1,6 @@
 function [RHO,PVAL] = Figure5_JoEM(scratch)
 
-% Usage:  [] = Figure3a_JoEM(scratch);
+% Usage:  [] = Figure5_JoEM(scratch);
 
 % Required input:
 % scratch: The working directory where the raw data files, and dependancies
